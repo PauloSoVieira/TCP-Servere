@@ -1,0 +1,8 @@
+
+z
+java:S2589!"7Remove this expression which always evaluates to "true"(‰ñ°8ÙÖİõ„2J$8118cfa4-d0f9-4fff-a0c4-d82a18db4c8c
+”
+java:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(ê‰¬ùÿÿÿÿ8ÛÖİõ„2J$ee5d0237-bee8-4545-a56b-ac3adcdb1fc4
+r	java:S106"+Replace this use of System.out by a logger.(Ô¯Úóùÿÿÿÿ8âÖİõ„2J$4690b917-5262-4e1b-9d53-6d95a77ffd22
+½
+java:S2159!"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(‰ñ°8åÖİõ„2J$8333b5a7-20b9-4b8c-9add-5012316b9c84

@@ -1,0 +1,4 @@
+
+”
+java:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(¨¿ ‹ÿÿÿÿÿ8—‚µ„„2J$bcf06972-155c-436c-9da7-cefc5c25d09e
+r	java:S106"+Replace this use of System.out by a logger.(øºÑûúÿÿÿÿ8Ÿ‚µ„„2J$dfb1f2a9-6c9c-4f11-bec7-b6f019a31215

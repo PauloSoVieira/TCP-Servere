@@ -1,0 +1,14 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ô÷¦ı„2J$0421318a-61b8-4fdf-a9d1-6ae0572d266d
+	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ô÷¦ı„2J$be5095ba-ff67-4531-9acb-cad581574023
+•
+java:S2095&"MUse try-with-resources or close this "ExecutorService" in a "finally" clause.(œ¿´Ÿúÿÿÿÿ8õ÷¦ı„2J$2577e6bd-a19c-433b-9aa0-608fd96d709d
+
+java:S2095("JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(èñ×œ8õ÷¦ı„2J$bf0eb6f1-fdcb-4165-9eb6-b3d9cb0cb389
+m
+java:S3010"+Remove this assignment of "clientHandlers".(¸ÿÌm8÷÷¦ı„2J$ffb7cba8-4a21-4c12-a0c4-0f748b5a5ab1
+w
+java:S2209"5Change this instance-reference to a static reference.(¸ÿÌm8÷÷¦ı„2J$26f4bc83-f0d2-400b-8fdc-0d1f87b328d6
+m	java:S106B"+Replace this use of System.out by a logger.(˜±ùí8ü÷¦ı„2J$6bf180e6-1784-407e-b93e-f8ee80ccfd33
+m	java:S106F"+Replace this use of System.out by a logger.(˜±ùí8ê¾Âı„2J$cf9b558b-d812-430b-865d-cc9fab01dc9b
+r	java:S106J"+Replace this use of System.out by a logger.(ñ—¸½úÿÿÿÿ8ÙÅı„2J$8473793f-c31c-4515-8e4e-ff27c943c638
