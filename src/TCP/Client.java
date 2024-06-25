@@ -21,6 +21,8 @@ public class Client {
         }
     }
 
+//Ola
+    
     public void start() throws IOException {
         Socket clientSocket = new Socket(host, port);
 
